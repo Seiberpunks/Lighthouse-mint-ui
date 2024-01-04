@@ -1,19 +1,18 @@
 {
-    "name":"My Project",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
+    "name":"Seiber Punks",
+    "description":"The first 10,000 Seiber Punks ever to explore Seiber space, created for those daring enough to Seize the day and break free from the Seistem. collectibles.",
     "website":"",
-    "twitter":"",
+    "twitter":"https://twitter.com/Seiber_Punks",
     "discord":"",
-    "rpc":"",
-    "network":"atlantic-2", 
-    "collection_address":"", 
+    "rpc":"https://rpc.ankr.com/sei/3c813144424890cefbdd7b7b7bdd8075459391d5e331399eb38258df635cdc02",
+    "network":"pacific-1", 
+    "collection_address":"sei1vjgrptlrm0alx330lv6260kzewv7p8elpputvedd45sxrtel2v5qzkrcd7", 
     "nft_name_type": "default",
     "groups":[
         {
             "name":"whitelist",
             "allowlist":[
-                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
-                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
+                "sei1wk8llxkj08n06tchj876eeggu57uhqtwueru00"
             ] 
         },
         {
