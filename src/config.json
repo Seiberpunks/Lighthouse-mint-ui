@@ -6,19 +6,9 @@
     "discord":"",
     "rpc":"https://rpc.ankr.com/sei/3c813144424890cefbdd7b7b7bdd8075459391d5e331399eb38258df635cdc02",
     "network":"pacific-1", 
-    "collection_address":"sei1lfsaxnklejqkpmytmnkzrvr0fhgplklwy3kwzyzrwu322tlatk4qpnfe6q", 
+    "collection_address":"sei1vjgrptlrm0alx330lv6260kzewv7p8elpputvedd45sxrtel2v5qzkrcd7", 
     "nft_name_type": "default",
     "groups":[
-        {
-            "name":"whitelist",
-            "allowlist":[
-                "sei1wk8llxkj08n06tchj876eeggu57uhqtwueru00",
-                "sei14ez6se8z54l9kpuyaz4jerl4enhgsd0jekx5l6",
-                "sei1la37l6p7hamxuvljreslee4gakh60rhce0qt3n",
-                "sei1hkn5870p9rr3j74x20uv3glz5kh77rn4l39xd8",
-                "sei1ktaxu0m2t58ycfch6rh3e02urdjl6tjwq8v0t3"
-            ] 
-        },
         {
             "name":"public"
         }
