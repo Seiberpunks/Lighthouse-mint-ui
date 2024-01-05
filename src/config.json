@@ -10,13 +10,6 @@
     "nft_name_type": "default",
     "groups":[
         {
-            "name":"whitelist",
-            "allowlist":[
-                "sei1wk8llxkj08n06tchj876eeggu57uhqtwueru00",
-                "sei14ez6se8z54l9kpuyaz4jerl4enhgsd0jekx5l6"
-            ] 
-        },
-        {
             "name":"public"
         }
     ]
